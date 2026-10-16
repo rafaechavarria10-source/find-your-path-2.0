@@ -1,0 +1,5 @@
+[functions.participant-leads]
+verify_jwt = true
+
+[functions.admissions-admin]
+verify_jwt = true
